@@ -8,12 +8,10 @@ target 'Oops' do
   # Pods for Oops
 
 # Keyboard
-pod 'IQKeyboardManagerSwift', '5.0.7'
+pod 'IQKeyboardManagerSwift'
 
 # UI
 pod 'PureLayout'
-pod 'Kingfisher', '4.8.0'
-pod 'lottie-ios', '2.5.0'
 pod 'Hue', '3.0.1'
 
 #Network

@@ -23,6 +23,10 @@ class OopsTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
+    
+    func test_SomeMoreExample(){
+        XCTAssertTrue(2==Int("2"))
+    }
 
     func testPerformanceExample() {
         // This is an example of a performance test case.
